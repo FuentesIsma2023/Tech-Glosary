@@ -1,2 +1,2 @@
 # Tech-Glossary
-# Tech-Glosary
+
